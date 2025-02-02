@@ -24,7 +24,7 @@
 <div class="contenido">
     <?php
     /**
-    * @author 
+    * @author Alvaro Dominguez
     * Este es el código principal de la aplicación
     * @global mixed $_GET['search'] Contiene valor si se ha pulsado el input submit
     * @global string $_GET['pokemon'] Valor recogido en el input tipo text de nuestro formulario
@@ -64,5 +64,7 @@
     }
     ?>
 </div>
-
 <script src="./scriptst9.js"></script>
+
+</body>
+</html>
